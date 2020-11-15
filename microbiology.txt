@@ -1,0 +1,6 @@
+Mycobacterium,1,r,1,Regular,
+Lactobacillus,1,r,0,Regular,
+Corynebacterium,1,r,0,Pleomorphic,
+Streptococcus,1,c,0,Regular clusters,
+Micrococcus,1,c,1,Regular clusters,
+Staphylococcus,1,c,1,Irregular clusters
